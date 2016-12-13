@@ -7,6 +7,4 @@ engines:
 ratings:
   paths:
   - "**.java"
-ratings:
-  paths: []
 exclude_paths: []

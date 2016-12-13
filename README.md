@@ -6,5 +6,7 @@
 [![Dependency Status](https://www.versioneye.com/user/projects/582ad704c8dd3300448f9e19/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/582ad704c8dd3300448f9e19)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/aaa8ccbce6114dc7a4a1a2b8af6b4062)](https://www.codacy.com/app/bastian-venz/PanelFrog?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Serverfrog/PanelFrog&amp;utm_campaign=Badge_Grade)
 
+[![Code Climate](https://codeclimate.com/github/Serverfrog/PanelFrog/badges/gpa.svg)](https://codeclimate.com/github/Serverfrog/PanelFrog)[![Test Coverage](https://codeclimate.com/github/Serverfrog/PanelFrog/badges/coverage.svg)](https://codeclimate.com/github/Serverfrog/PanelFrog/coverage)[![Issue Count](https://codeclimate.com/github/Serverfrog/PanelFrog/badges/issue_count.svg)](https://codeclimate.com/github/Serverfrog/PanelFrog)
+
 
 A Simple Web Applications that is a gateway to your server

@@ -1,3 +1,6 @@
 language: java
 jdk:
   - oraclejdk8
+addons:
+    code_climate:
+        repo_token: 6898f35771c661d5bd0c9a0697464dce7f3ce3b11e47d33e81b5be96aa13181a
